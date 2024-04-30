@@ -36,7 +36,7 @@ if(isset($_FILES)){
 }
 
 
-/* STEP1 画像ファイル回転
+/* 画像ファイル回転
 ---------------------------------------------------------- */
 function imagefile_rotate($imgnum, $filename){
 	$source = imagecreatefromjpeg($filename);
