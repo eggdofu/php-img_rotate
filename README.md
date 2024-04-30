@@ -18,14 +18,14 @@ submit時に走らせるソース（page-imgrotate.phpに読み込ませる）
 サーバー上の画像を回転させる  
   
   
-※headerやcssは省略  
+※header.phpやcssは省略  
   
 <br>
 <br>
 <br>
 <br>
 <br>
-[https://kinabal.co.jp/info/info-18369/](https://kinabal.co.jp/info/info-18369/)
+https://kinabal.co.jp/info/info-18369/
 
 
 
